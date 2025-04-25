@@ -12,7 +12,7 @@ function App() {
         <UserTable />
       </main>
       <footer className="app-footer">
-        <p>Design and Developed By kARTIK MUTHAL</p>
+        <p>Design and Developed By kARTIK Mittal</p>
       </footer>
     </div>
   );
